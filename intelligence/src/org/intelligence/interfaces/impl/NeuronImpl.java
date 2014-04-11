@@ -1,4 +1,4 @@
-package org.intelligence.main;
+package org.intelligence.interfaces.impl;
 
 import org.intelligence.enums.StimulationModeEnum;
 

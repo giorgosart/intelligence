@@ -1,4 +1,4 @@
-package org.intelligence.main;
+package org.intelligence.interfaces.impl;
 
 
 public class NeuralNetworkImpl {
