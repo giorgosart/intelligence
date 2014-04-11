@@ -2,9 +2,9 @@ package org.intelligence.interfaces;
 
 public interface Configuration {
 
-	public void setProperty();
+	public abstract void setProperty();
 
-	public void getProperty();
+	public abstract void getProperty();
 
-	public void removeProperty();
+	public abstract void removeProperty();
 }

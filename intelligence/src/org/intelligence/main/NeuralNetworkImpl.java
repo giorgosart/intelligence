@@ -1,6 +1,6 @@
 package org.intelligence.main;
 
 
-public class NeuralNetwork {
+public class NeuralNetworkImpl {
 	
 }
