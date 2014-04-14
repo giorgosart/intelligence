@@ -1,4 +1,4 @@
-package org.intelligence.interfaces;
+package org.intelligence.nn.interfaces;
 
 public interface Configuration {
 

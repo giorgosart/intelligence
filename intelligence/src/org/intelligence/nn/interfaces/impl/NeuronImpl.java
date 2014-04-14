@@ -1,6 +1,6 @@
-package org.intelligence.interfaces.impl;
+package org.intelligence.nn.interfaces.impl;
 
-import org.intelligence.enums.StimulationModeEnum;
+import org.intelligence.nn.enums.StimulationModeEnum;
 
 public class NeuronImpl {
 

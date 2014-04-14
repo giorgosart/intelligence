@@ -1,4 +1,4 @@
-package org.intelligence.enums;
+package org.intelligence.nn.enums;
 
 public enum NeuralNetworkType {
 

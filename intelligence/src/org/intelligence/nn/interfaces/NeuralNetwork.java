@@ -1,6 +1,6 @@
-package org.intelligence.interfaces;
+package org.intelligence.nn.interfaces;
 
-import org.intelligence.enums.StimulationModeEnum;
+import org.intelligence.nn.enums.StimulationModeEnum;
 
 public interface NeuralNetwork {
 
@@ -16,9 +16,15 @@ public interface NeuralNetwork {
 
 	public abstract void getNeuronCount();
 
-	public abstract StimulationModeEnum getMode();
-	
+	public abstract StimulationModeEnum getStimulationMode();
+
+	public abstract void getMode();
+
 	public abstract void setMode();
+
+	public abstract void getTrainingType();
+
+	public abstract void setTrainingType();
 
 	public abstract void reset();
 
